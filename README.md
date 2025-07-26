@@ -1,3 +1,36 @@
+
+Cloud Sniper : Detection-as-code platform
+Cloud Sniper is a comprehensive platform meticulously designed to streamline Cloud Security Operations. It swiftly responds to security incidents by analyzing and correlating cloud artifacts, ensuring a holistic view of the company's cloud security posture.
+
+Serving as a centralized Incident and Response hub, our platform executes automatic actions, leveraging cloud native artifacts and open-source technologies. This approach empowers the community to enrich the project with diverse security use cases.
+
+Efficiently processing security feeds, Cloud Sniper autonomously safeguards the cloud infrastructure. Its Analytics module correlates Indicators of Compromise (IOCs) to unveil attacker tactics, techniques, and procedures (TTPs), furnishing analysts with enhanced security findings.
+
+Users access a comprehensive incident management system through Cloud Sniper. Advanced security analysts seamlessly integrate external forensic or incident-and-response tools to ingest new security feeds. The platform deploys and integrates with native cloud resources in a fully modularized manner, facilitating easy extension by the community.
+
+Currently available for AWS, our system is poised for expansion to other cloud platforms.
+
+Features
+Incident and Response orchestration (multi-account|multi-region)
+Security analytics
+Incident and Response dashboards
+Alerting
+Incident and Response Simulations (under refactor)
+Internal Threat Intelligence Feeds, Inventory and Compliance Data Collection (under refactor)
+Usage
+Terraform
+Get Involved
+EMAIL
+SLACK
+Contributing
+We welcome all contributions, suggestions, and feedback, so please do not hesitate to reach out.
+
+Releases
+ARSENAL - BLACK HAT USA 2023 (selected, presentation cancelled due to scheduling conflicts)
+ARSENAL - BLACK HAT USA 2021
+ARSENAL - BLACK HAT ASIA 2021
+ARSENAL - BLACK HAT USA 2020
+EKOLABS - EKOPARTY 2019
 ![alt text](../../../images/logo.png "Cloud Sniper")
 <br> </br>
 ## *Cloud Sniper Beaconing detection*
